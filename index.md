@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Elevengamer
 
-You can use the [editor on GitHub](https://github.com/Elevengamer/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hallo und herzlich willkommen zu, nicht etwa einem neuen Live-Stream, sondern zu meiner eigenen kleinen Website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Über mich:
 
-### Markdown
+- Elevengamer
+- 17 Jahre
+  
+  Wo ihr mich finden könnt:
+  
+  - [Instagram](https://instagram.com/Elevengamer_)
+  - [Youtube](https://youtube.com/channel/UCP2Kd-FND3DU-bnv4smB2eQ)
+  - [Twitch](https://twitch.tv/elevengamer_)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+---
 
-```markdown
-Syntax highlighted code block
+Was ich so Streame:
 
-# Header 1
-## Header 2
-### Header 3
+- Destiny 2
+- Fifa
+- Need for Speed
+- Lego Star Wars die Skywalker Saga
+- Forza Horizon
+- Assassins Creed
+- Watchdogs
+  
+---
 
-- Bulleted
-- List
+Schaut auch bei meinem Freund auf Twitch vorbei!
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Elevengamer/Website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+  - [FightKnightDE](https://www.twitch.tv/FightKnightDE)
